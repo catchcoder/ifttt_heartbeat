@@ -1,2 +1,2 @@
-# ifttt_python
+# ifttt_heartbeat
 python script that send a trigger to ifttt with uptime and disk space emailed to user
