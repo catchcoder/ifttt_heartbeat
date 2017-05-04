@@ -3,7 +3,8 @@
 
 # Using **If this then that** to send a email heartbeat
 
-This python script that will send a trigger to https://ifttt.com/ with uptime and disk space then *ifttt* wil send a email.
+>This python script that will send a trigger to [ifttt.com](https://ifttt.com/) with uptime and disk space then *ifttt* wil send a email.
+
 
 
  ## Run script every hour
