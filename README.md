@@ -1,5 +1,5 @@
 # Build progress
-![Travis CI](https://travis-ci.org/catchcoder/ifttt_heartbeat.svg?branch=master "Progress")
+Travis CI: ![Travis CI](https://travis-ci.org/catchcoder/ifttt_heartbeat.svg?branch=master "Progress")
 
 # Using **If this then that** to send a email heartbeat
 
