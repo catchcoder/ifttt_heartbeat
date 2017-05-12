@@ -8,7 +8,7 @@
 
 
  ## Run script every hour
- Add cron job to run every hout or set the schedule to what you require
+ Add cron job to run every hour or set the schedule to what you require
 * Run crontab -e
 * Add example below
 
